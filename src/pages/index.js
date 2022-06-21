@@ -1,6 +1,5 @@
-import PageContainer from '@/components/PageContainer';
-import Actions from '@/components/Actions';
-import { VStack,Text,ModalHeader, Heading, Box, Image } from '@chakra-ui/react';
+
+import { VStack,Text, Heading, Box, Image } from '@chakra-ui/react';
 
 const Home = () => (
   <VStack>
@@ -9,10 +8,10 @@ const Home = () => (
 </Box>
     <Heading>MINIYAHIL kEBEDE</Heading>
     <Text fontSize='lg' noOfLines={[1, 2, 3]}>
-   "The quick brown fox jumps over the lazy dog" is an English-language pangram—a
+   The quick brown fox jumps over the lazy dog is an English-language pangram—a
   sentence that contains all of the letters of the English alphabet. Owing to
   its existence, Chakra was created.
-   "The quick brown fox jumps over the lazy dog" is an English-language pangram—a
+   The quick brown fox jumps over the lazy dog is an English-language pangram—a
   sentence that contains all of the letters of the English alphabet. Owing to
   its existence, Chakra was created.
 </Text>
