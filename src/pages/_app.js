@@ -24,7 +24,7 @@ const MyApp = ({ Component, pageProps, router }) => (
     <DefaultSeo {...SEO} />
 
     <GlobalStyle>
-      <Star />
+     
       <AnimatePresence exitBeforeEnter>
         <MotionBox
           key={router.route}
