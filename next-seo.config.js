@@ -1,4 +1,4 @@
-const title = 'Next.js Chakra Starter | Hendra Agil';
+const title = 'Miniyahil Kebede personal portfolio';
 const description =
   'An opinionated starter project with Next.js and Chakra UI. Created by hendraaagil';
 const url = 'https://nextjs-chakra-hendraaagil.vercel.app';
@@ -23,8 +23,8 @@ const SEO = {
   },
   twitter: {
     cardType: 'summary_large_image',
-    handle: '@hendraaagil',
-    site: '@hendraaagil',
+    handle: '@hmhard',
+    site: '@hmhard',
   },
   additionalLinkTags: [{ rel: 'icon', href: '/favicon.ico' }],
 };
